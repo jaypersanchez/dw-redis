@@ -28,7 +28,7 @@
     "google-protobuf": "^3.12.2",
     "ioredis": "^4.17.3",
     "promise": "^8.1.0",
-    "protobufjs": "^6.10.1",
+    "protobufjs": "^6.11.3",
     "redis-cli": "^1.4.0",
     "redis-server": "^1.2.2",
     "uuid": "^8.2.0"
